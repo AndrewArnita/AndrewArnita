@@ -1,4 +1,6 @@
-<h2 align='left'>Hello! Welcome to my profile. <img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="30px"></h2>
+<h2 align='left'>Hello! Welcome to my profile.</h2>
+<hr>
+<h2><img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="30px"></h2>
 <hr>
 
 🌱 I’m currently pursuing a Master's degree in Software Engineering
