@@ -1,4 +1,4 @@
-<h2 align='left'>Hi! I'm Andrew Arnita <img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/wave.gif" width="30px"></h2>
+<h2 align='left'>Hello! Welcome to my profile. <img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/wave.gif" width="30px"></h2>
 <hr>
 
 🌱 I’m currently pursuing a Master's degree in Software Engineering
