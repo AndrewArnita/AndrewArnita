@@ -1,10 +1,10 @@
 <h2 align='left'>Hi! I'm Andrew Arnita <img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/wave.gif" width="30px"></h2>
 <hr>
 
-🌱 I’m currently a Master's student in Software Engineering
+🌱 I’m currently pursuing a Master's degree in Software Engineering
 
 <hr>
-👯 I’m always looking to collaborate on web development projects
+👯 I’m always looking to collaborate on interesting projects
 
 <hr>
 <h3 align='left'>👨‍💻 Social Profiles</h3>
