@@ -1,6 +1,6 @@
 <h2 align='left'>Hello! Welcome to my Github Profile</h2>
 <hr>
-<h2><img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="550px" height="450px"></h2>
+<h2><img style="text-align: center;" src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="550px" height="300px"></h2>
 <hr>
 
 - 🏫 I am currently pursuing a MSc. in Software Engineering at Université Catholique de Louvain.
