@@ -1,12 +1,12 @@
-<h2 align='left'>Hello! Welcome to my profile.</h2>
+<h2 align='left'>Hello and welcome to my Github Profile!</h2>
 <hr>
-<h2><img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="30px"></h2>
+<h2><img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="30px" height="30px"></h2>
 <hr>
 
-🌱 I’m currently pursuing a Master's degree in Software Engineering
+ 🏫 I am currently pursuing a Master's degree in Software Engineering at Université Catholique de Louvain.
 
 <hr>
-👯 I’m always looking to collaborate on interesting projects
+🪢 I am always looking to collaborate on interesting projects.
 
 <hr>
 <h3 align='left'>👨‍💻 Social Profiles</h3>
