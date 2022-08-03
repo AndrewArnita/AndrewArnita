@@ -1,6 +1,6 @@
-<h2 align='left'>Hello and welcome to my Github Profile!</h2>
+<h2 align='left'>Hello! Welcome to my Github Profile</h2>
 <hr>
-<h2><img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="30px" height="30px"></h2>
+<h2><img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="50px"></h2>
 <hr>
 
  🏫 I am currently pursuing a Master's degree in Software Engineering at Université Catholique de Louvain.
@@ -19,4 +19,4 @@
 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewArnita)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewArnita)](https://github.com/anuraghazra/github-readme-stats) -->
