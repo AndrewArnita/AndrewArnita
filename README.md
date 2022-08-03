@@ -1,14 +1,14 @@
-<h2 align='left'>Hello! Welcome to my Github Profile</h2>
+<h1 align='left'>Hello! Welcome to my Github Profile</h1>
 <hr>
-<h2><img style="text-align: center;" src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="550px" height="300px"></h2>
+<h2 style="text-align: center;"><img src="https://github.com/AndrewArnita/AndrewArnita/blob/main/assets/programmer.gif" width="550px" height="300px"></h2>
 <hr>
 
-- 🏫 I am currently pursuing a MSc. in Software Engineering at Université Catholique de Louvain.
+<h3>- 🏫 I am currently pursuing a MSc. in Software Engineering at Université Catholique de Louvain.</h3>
 
-- 🪢 I am always looking to collaborate on interesting projects.
+<h3>- 🪢 I am always looking to collaborate on interesting projects.</h3>
 
 <hr>
-<h3 align='left'>- 👨‍💻 Social Profiles</h3>
+<h3 align='left'>👨‍💻 Social Profiles</h3>
 
 <div align='left'>
 
