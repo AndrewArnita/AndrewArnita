@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Andrew, a full-stack Software Engineer👨‍💻</div>  
+### <div align="center">Welcome! I'm Andrew, a full-stack Software Engineer👨‍💻</div>  
     
 
 - 🌱 I’m currently learning ReactJS and NodeJS  
