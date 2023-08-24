@@ -3,11 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Andrew, a full-stack software engineer👨‍💻Currently in my last year of my master's degree 🚀</div>  
-  
-
-- 🔭 I’m currently working on my thesis project  
-  
+### <div align="center">I'm Andrew, a full-stack Software Engineer👨‍💻</div>  
+    
 
 - 🌱 I’m currently learning ReactJS and NodeJS  
   
